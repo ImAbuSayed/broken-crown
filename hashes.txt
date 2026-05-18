@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Broken Crown
+
+This log tracks the cryptographic history and versioning for the song **Broken Crown** (broken-crown).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T14:39:25.772389 | `v1` | `e4795bfc7bbf05d85da98a0f611a1dd789b0fac7a3162f1b129d7ddb5e0e7317` | `024d9b95ef4bc326e9fe196ce9d9172bae769f0fb8dc910c8a28c76f79fb9e76` | `2026-05-18_broken-crown-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
